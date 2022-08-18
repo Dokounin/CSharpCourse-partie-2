@@ -4,9 +4,76 @@
     {
         static void Main(string[] args)
         {
+            int[] numbers = {1, -2, 4, -7, 5, 3, 2, -1, -3, 2, 7, -1, -3, 1, 7 };
 
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                for(int j = i + 1; j < numbers.Length; j++)
+                {
+                    int atI = numbers[i];
+                    int atJ = numbers[j];
+
+                    if(atI + atJ == 0)
+                    {
+                        System.Console.WriteLine($"Pair ({atI};{atJ}). Indexes ({i};{j})");
+                    }
+                }
+            }
+            
         }
-        static void ifElseOperation()
+        static void ForForeach()
+        {
+            int[] numbers = {1, 2, 3 , 4, 5, 6, 7, 8, 9};
+
+            for(int i = 0; i < numbers.Length; i++)
+            {
+                System.Console.Write(numbers[i] + " ");
+            }
+
+            System.Console.WriteLine();
+
+            for(int i = numbers.Length - 1; i >= 0;i--)
+            {
+                System.Console.Write(numbers[i] + " ");
+            }
+
+            System.Console.WriteLine();
+
+            for(int i = 0; i < numbers.Length; i++)
+            {
+                if(numbers[i] % 2 == 0)
+                {
+                System.Console.Write(numbers[i] + " ");
+                }
+            }
+
+            System.Console.WriteLine();
+
+            foreach(int val in numbers)
+            {
+                System.Console.Write(val + " ");
+            }
+        }
+        static void HomeworkGetMax()
+        {
+         System.Console.WriteLine("Enter first number");
+            int number1 = int.Parse(Console.ReadLine());
+
+            System.Console.WriteLine("Enter seconde number");
+            int number2 = int.Parse(Console.ReadLine());
+            // 1-st method
+            // int max = number1;
+
+            // if(number2 > number1)
+            // {
+            //     max = number2;
+            // }
+            // System.Console.WriteLine($"Max = {max}");
+            // 
+            double max = number1 > number2 ? number1 : number2;
+            System.Console.WriteLine($"Max = {max}");   
+        }
+        static void ifElse()
         {
             System.Console.WriteLine("Enter your age :");
             int age = int.Parse(Console.ReadLine());

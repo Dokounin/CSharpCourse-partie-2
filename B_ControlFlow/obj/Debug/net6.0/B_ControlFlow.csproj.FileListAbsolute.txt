@@ -1,0 +1,15 @@
+/home/dokounin/projects/CSharpCourse#/B_ControlFlow/bin/Debug/net6.0/B_ControlFlow
+/home/dokounin/projects/CSharpCourse#/B_ControlFlow/bin/Debug/net6.0/B_ControlFlow.deps.json
+/home/dokounin/projects/CSharpCourse#/B_ControlFlow/bin/Debug/net6.0/B_ControlFlow.runtimeconfig.json
+/home/dokounin/projects/CSharpCourse#/B_ControlFlow/bin/Debug/net6.0/B_ControlFlow.dll
+/home/dokounin/projects/CSharpCourse#/B_ControlFlow/bin/Debug/net6.0/B_ControlFlow.pdb
+/home/dokounin/projects/CSharpCourse#/B_ControlFlow/obj/Debug/net6.0/B_ControlFlow.csproj.AssemblyReference.cache
+/home/dokounin/projects/CSharpCourse#/B_ControlFlow/obj/Debug/net6.0/B_ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+/home/dokounin/projects/CSharpCourse#/B_ControlFlow/obj/Debug/net6.0/B_ControlFlow.AssemblyInfoInputs.cache
+/home/dokounin/projects/CSharpCourse#/B_ControlFlow/obj/Debug/net6.0/B_ControlFlow.AssemblyInfo.cs
+/home/dokounin/projects/CSharpCourse#/B_ControlFlow/obj/Debug/net6.0/B_ControlFlow.csproj.CoreCompileInputs.cache
+/home/dokounin/projects/CSharpCourse#/B_ControlFlow/obj/Debug/net6.0/B_ControlFlow.dll
+/home/dokounin/projects/CSharpCourse#/B_ControlFlow/obj/Debug/net6.0/refint/B_ControlFlow.dll
+/home/dokounin/projects/CSharpCourse#/B_ControlFlow/obj/Debug/net6.0/B_ControlFlow.pdb
+/home/dokounin/projects/CSharpCourse#/B_ControlFlow/obj/Debug/net6.0/B_ControlFlow.genruntimeconfig.cache
+/home/dokounin/projects/CSharpCourse#/B_ControlFlow/obj/Debug/net6.0/ref/B_ControlFlow.dll
